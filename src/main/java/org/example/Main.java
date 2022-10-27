@@ -7,5 +7,6 @@ public class Main {
         System.out.println("hot-fix first commit");
         System.out.println("main  ");
         System.out.println("Hello hox-fix!");
+        System.out.println("push test!");
     }
 }
